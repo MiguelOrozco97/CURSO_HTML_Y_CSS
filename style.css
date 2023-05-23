@@ -49,12 +49,10 @@ nav a:hover{
     box-sizing: border-box;
     border: 2px solid #000000;
     border-radius: 10px;
-    
 }
 
 .productos li:hover{
     border-color: #c78c19;
-    
 }
 
 .productos li:active{
@@ -117,3 +115,4 @@ form label, form p{
 .checkbox{
     margin: 20px 0;
 }
+
